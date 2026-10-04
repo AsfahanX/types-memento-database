@@ -1,0 +1,17 @@
+{
+    "private": true,
+    "name": "@types/memento-database",
+    "version": "0.9",
+    "projects": [
+        "https://github.com/AsfahanX/types-memento-database"
+    ],
+    "devDependencies": {
+        "@types/memento-database": "workspace:."
+    },
+    "owners": [
+        {
+            "name": "Cipta Asfahan",
+            "githubUsername": "AsfahanX"
+        }
+    ]
+}
